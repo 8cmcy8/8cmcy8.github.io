@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>一些进展</title>
+      <link href="/2023/11/13/%E4%B8%80%E4%BA%9B%E8%BF%9B%E5%B1%95/"/>
+      <url>/2023/11/13/%E4%B8%80%E4%BA%9B%E8%BF%9B%E5%B1%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="取得初步进展"><a href="#取得初步进展" class="headerlink" title="取得初步进展"></a>取得初步进展</h1><p>现在刚好进入下一天，现在是零点<br>今天发现主题一直报错，再加上头像图片搞不好，纠结之下还是选择重新来过<br>直接下载buttfly主题（currently）舍弃reimu主题（before）<br>果不其然</p><blockquote><p>hexo g<br>hexo s<br>hexo g -d<br>速度大大提升。</p></blockquote><h2 id="恶心的地方"><a href="#恶心的地方" class="headerlink" title="恶心的地方"></a>恶心的地方</h2><ol><li>目前删不掉之前的themes文件</li><li>手残直接毁掉自己之前写的about文件</li><li>后面几天可能不怎么会做了因为解析几何还有一周考试…</li></ol><h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>逢考必过捏！！！！！！！</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> process </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>the first!</title>
       <link href="/2023/11/13/the-first/"/>
       <url>/2023/11/13/the-first/</url>
