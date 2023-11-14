@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>今日份美化</title>
+      <link href="/2023/11/14/index/"/>
+      <url>/2023/11/14/index/</url>
+      
+        <content type="html"><![CDATA[<h1 id="今日份美化……"><a href="#今日份美化……" class="headerlink" title="今日份美化……"></a>今日份美化……</h1><ol><li>violet留言板（店长）</li><li>一图流</li><li>页脚github徽标（店长）</li><li>首页分类磁贴新版（店长）</li><li>文章置顶滚动栏（店长）</li><li>文章双侧栏显示（小冰）</li><li>wowjs动画</li><li>导航栏魔改</li><li>黑夜霓虹灯1.0（js计时器实现）</li><li>听话的鼠标魔改</li><li>页面样式调节</li><li>哔哩哔哩视频适配</li></ol><h2 id="基础功能调节"><a href="#基础功能调节" class="headerlink" title="基础功能调节"></a>基础功能调节</h2><ol><li>侧边栏设置</li></ol><h3 id="保存并演示功能-哔哩哔哩视频适配"><a href="#保存并演示功能-哔哩哔哩视频适配" class="headerlink" title="保存并演示功能 (哔哩哔哩视频适配)"></a>保存并演示功能 (哔哩哔哩视频适配)</h3>   <div align=center class="aspect-ratio">       <iframe src="https://player.bilibili.com/player.html?aid=837916802&&page=1&as_wide=1&high_quality=1&danmaku=0"        scrolling="no"        border="0"        frameborder="no"        framespacing="0"        high_quality=1       danmaku=1        allowfullscreen="true">        </iframe>   </div><p><a href="https://wiki.biligame.com/factorio/BVtoAV">依托算法</a></p><h3 id="只能说又相对于昨天强了很多。现在已经是2023-11-15-00-37-上传完毕后该睡觉了…"><a href="#只能说又相对于昨天强了很多。现在已经是2023-11-15-00-37-上传完毕后该睡觉了…" class="headerlink" title="只能说又相对于昨天强了很多。现在已经是2023&#x2F;11&#x2F;15 00:37 上传完毕后该睡觉了….."></a>只能说又相对于昨天强了很多。现在已经是2023&#x2F;11&#x2F;15 00:37 上传完毕后该睡觉了…..</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> niubi </tag>
+            
+            <tag> blog </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一些进展</title>
       <link href="/2023/11/13/%E4%B8%80%E4%BA%9B%E8%BF%9B%E5%B1%95/"/>
       <url>/2023/11/13/%E4%B8%80%E4%BA%9B%E8%BF%9B%E5%B1%95/</url>
@@ -47,9 +74,9 @@
             
             <tag> niubi </tag>
             
-            <tag> cmcy </tag>
-            
             <tag> blog </tag>
+            
+            <tag> cmcy </tag>
             
         </tags>
       
