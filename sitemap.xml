@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://8cmcy8.github.io/2023/11/13/%E4%B8%80%E4%BA%9B%E8%BF%9B%E5%B1%95/</loc>
+    
+    <lastmod>2023-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://8cmcy8.github.io/2023/11/13/the-first/</loc>
+    
+    <lastmod>2023-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://8cmcy8.github.io/categories/index.html</loc>
     
     <lastmod>2023-11-14</lastmod>
@@ -48,24 +66,6 @@
   
   <url>
     <loc>https://8cmcy8.github.io/movies/index.html</loc>
-    
-    <lastmod>2023-11-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://8cmcy8.github.io/2023/11/13/the-first/</loc>
-    
-    <lastmod>2023-11-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://8cmcy8.github.io/2023/11/13/%E4%B8%80%E4%BA%9B%E8%BF%9B%E5%B1%95/</loc>
     
     <lastmod>2023-11-14</lastmod>
     
@@ -122,14 +122,7 @@
 
   
   <url>
-    <loc>https://8cmcy8.github.io/categories/blog2/</loc>
-    <lastmod>2023-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://8cmcy8.github.io/categories/blog1/</loc>
+    <loc>https://8cmcy8.github.io/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2023-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
