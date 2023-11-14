@@ -6,7 +6,7 @@
   <link href="https://8cmcy8.github.io/atom.xml" rel="self"/>
   
   <link href="https://8cmcy8.github.io/"/>
-  <updated>2023-11-13T16:26:04.185Z</updated>
+  <updated>2023-11-14T01:33:37.959Z</updated>
   <id>https://8cmcy8.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://8cmcy8.github.io/2023/11/13/%E4%B8%80%E4%BA%9B%E8%BF%9B%E5%B1%95/"/>
     <id>https://8cmcy8.github.io/2023/11/13/%E4%B8%80%E4%BA%9B%E8%BF%9B%E5%B1%95/</id>
     <published>2023-11-13T15:59:32.000Z</published>
-    <updated>2023-11-13T16:26:04.185Z</updated>
+    <updated>2023-11-14T01:33:37.959Z</updated>
     
     <content type="html"><![CDATA[<h1 id="取得初步进展"><a href="#取得初步进展" class="headerlink" title="取得初步进展"></a>取得初步进展</h1><p>现在刚好进入下一天，现在是零点<br>今天发现主题一直报错，再加上头像图片搞不好，纠结之下还是选择重新来过<br>直接下载buttfly主题（currently）舍弃reimu主题（before）<br>果不其然</p><blockquote><p>hexo g<br>hexo s<br>hexo g -d<br>速度大大提升。</p></blockquote><h2 id="恶心的地方"><a href="#恶心的地方" class="headerlink" title="恶心的地方"></a>恶心的地方</h2><ol><li>目前删不掉之前的themes文件</li><li>手残直接毁掉自己之前写的about文件</li><li>后面几天可能不怎么会做了因为解析几何还有一周考试…</li></ol><h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>逢考必过捏！！！！！！！</p>]]></content>
     
@@ -45,7 +45,7 @@
     <link href="https://8cmcy8.github.io/2023/11/13/the-first/"/>
     <id>https://8cmcy8.github.io/2023/11/13/the-first/</id>
     <published>2023-11-13T05:08:06.000Z</published>
-    <updated>2023-11-13T15:44:49.370Z</updated>
+    <updated>2023-11-14T01:33:40.140Z</updated>
     
     <content type="html"><![CDATA[<h1 id="浅浅总结"><a href="#浅浅总结" class="headerlink" title="浅浅总结"></a><strong>浅浅总结</strong></h1><p>很是难受，之前上传的时候一直报错，我也不清楚这个到底怎么写总之就是很奇怪。以后还会更新更多内容进来的。<br>那就先浅浅总结下这不到三个月来干了什么……</p><h2 id="C语言学习"><a href="#C语言学习" class="headerlink" title="C语言学习"></a><strong>C语言学习</strong></h2><p>水平已经停滞了蛮久了，上周六晚上开完会之后就去基地浅学了下结构体语法，之后还得学数据结构和算法，打算在放假回去前学完，现在还处于起步阶段，c语言也是基本只懂语法的阶段，只会做简单题。<br>之前安装vmtools还把自己电脑及键盘驱动搞坏了很是难受，又把电脑重置了一遍，重置完之后，vs2022和v c++编译时速度变慢了cmd窗口弹出来等半天（其实也不算慢的，但没之前那么快）才能输入数据，目前还没找到原因。</p><h2 id="网络安全学习"><a href="#网络安全学习" class="headerlink" title="网络安全学习"></a><strong>网络安全学习</strong></h2><p>目前也算刚入门阶段，不过我是打算在这条路上一直走下去的，之前也就学了域名相关还有一些基础的内网外网知识，学了基础dos命令，写了几个病毒，然后详细了解了学习路线，就是之前搞vm给我难受坏了，不过最终的结果是好的，两周感觉都快把vm摸透了，打算放寒假俩月计算机四件套给他干完，也不清楚到了今年ctf的时候实力是什么样，能否参加？？而且我也想尽快考nsip 2级证书！</p><h2 id="数学学习"><a href="#数学学习" class="headerlink" title="数学学习"></a><strong>数学学习</strong></h2><p>很抱歉，我觉得目前没把重心放在本专业上，水平更是依托答辩，不过最近开始复习了，期末肯定不会挂科的…….</p><h2 id="工具"><a href="#工具" class="headerlink" title="工具"></a><strong>工具</strong></h2><p>目前使用|visual stdio 2022|Microsoft Visual C++ 2010 Express（实验课必须，这编译器属实不好用）|vscode（刚开始用觉得很不错啊，怪不得我旁边秋枫桑天天用些项目，我也得好好学学）|matlab r2022a（目前还没打算学）|clash（没有魔法哪里能行）|vmware 17pro（够吧虚拟机要我老命）|剩余小的还有很多就不一一列举了…….</p><h2 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a><strong>游戏</strong></h2><p>火影忍者的话，每天几十分钟消遣可不能少，刚获得新春初代感觉没啥用，还没满突破，这月段位必上六道<br>LOL许久不玩….得有两周了吧？？？？？？<br>war3也许久不玩了，不过上周六在基地看到有前辈在玩dota 1，真是珍稀物种！<br>八方旅人2，被美术风格吸引了，前几周下载盗版（3dm）体验了几个小时，也还行，但没时间玩。</p><h2 id="锻炼"><a href="#锻炼" class="headerlink" title="锻炼"></a><strong>锻炼</strong></h2><p>巅峰状态深蹲能顶160kg，但是最近病的厉害，难受的很，也有两周没咋锻炼了，等病差不多了就去恢复锻炼，最近天气也变冷了，本来还以为买的厚衣服排不上用场，真就从短袖到棉袄就一晚上….</p><h2 id="last"><a href="#last" class="headerlink" title="last"></a><strong>last</strong></h2><p>会一直学习完善破破烂烂的博客的，毕竟是这年基地布置唯一一个任务，现在就是时间不好平衡啊!</p>]]></content>
     
