@@ -103,7 +103,7 @@
 
   <url>
     <loc>https://8cmcy8.github.io/</loc>
-    <lastmod>2023-11-16</lastmod>
+    <lastmod>2023-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,28 +111,28 @@
   
   <url>
     <loc>https://8cmcy8.github.io/tags/niubi/</loc>
-    <lastmod>2023-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://8cmcy8.github.io/tags/cmcy/</loc>
-    <lastmod>2023-11-16</lastmod>
+    <lastmod>2023-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://8cmcy8.github.io/tags/blog/</loc>
-    <lastmod>2023-11-16</lastmod>
+    <lastmod>2023-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://8cmcy8.github.io/tags/cmcy/</loc>
+    <lastmod>2023-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://8cmcy8.github.io/tags/process/</loc>
-    <lastmod>2023-11-16</lastmod>
+    <lastmod>2023-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -141,7 +141,7 @@
   
   <url>
     <loc>https://8cmcy8.github.io/categories/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2023-11-16</lastmod>
+    <lastmod>2023-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
